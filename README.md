@@ -1,5 +1,7 @@
 # Personal_Color_Prediction
-2022-2학기 인하대학교 정보통신공학과 "컴퓨터비전" 수업 텀프로젝트 <Image Classification을 이용한 퍼스널 컬러 예측>
+2022-2학기 인하대학교 정보통신공학과 "컴퓨터비전" 수업 텀프로젝트
+
+<Image Classification을 이용한 퍼스널 컬러 예측>
 <br/><br/>
 ## Team
 인하대학교 정보통신공학과 김가현, 허영은
